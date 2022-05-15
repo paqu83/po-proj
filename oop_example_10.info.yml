@@ -1,0 +1,6 @@
+name: OOP Example 10
+type: module
+description: 'Auction portal prototype'
+package: OOP Example modules
+core: 8.x
+

@@ -1,0 +1,7 @@
+oop_example_10_page:
+  path: 'oop-example-10'
+  defaults:
+    _controller: '\Drupal\oop_example_10\Controller\OopExample10Controller::page'
+  requirements:
+    _access: 'TRUE'
+
